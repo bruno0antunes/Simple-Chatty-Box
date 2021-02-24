@@ -1,3 +1,3 @@
 # Simple-Chatty-Box
 
-Python Chanllenge from Hyperskill JetBrains Academy
+Python Challenge from Hyperskill JetBrains Academy
